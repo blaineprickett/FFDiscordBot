@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const config = require("./config");
+const config = require("./config").default;
 const commands = require("./lib/commands");
 const commandsList = require("./stats/commandsList.json");
 const utilities = require("./lib/utilities");

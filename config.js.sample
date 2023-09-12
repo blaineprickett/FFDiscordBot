@@ -1,0 +1,5 @@
+﻿﻿let config = {};
+
+config.DiscordAPIToken = 'your_bot_token';
+
+module.exports = config;
