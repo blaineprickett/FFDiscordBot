@@ -1,5 +1,5 @@
 ﻿﻿let config = {};
 
-config.DiscordAPIToken = 'MTE0MTIzNDkwNTUzMjA4ODQwMA.GKKTQE.sN2dOFBIjV1Pdl0HEVek3kju-y6c38ai8cSXlc';
+config.DiscordAPIToken = 'YOUR_DISCORD_API_TOKEN';
 
 module.exports = config;
